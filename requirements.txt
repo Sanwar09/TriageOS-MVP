@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google-generativeai
+sqlalchemy
+pg8000
+cloud-sql-python-connector
+python-dotenv
+pydantic
